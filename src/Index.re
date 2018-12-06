@@ -1,0 +1,1 @@
+ReactDOMRe.renderToElementWithId(<App name="ReasonReactStarter" href="http://www.github.com/joakimunge"/>, "app");
